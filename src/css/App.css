@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+}
+
+.inner {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+ol {
+    display: flex;
+    justify-content: space-around;
+    font-size: 15px;
+}
+
+button {
+    border-radius: 20px;
+    box-shadow: 4px 2px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.padding-5 {
+    padding-left: 8.5px;
+    padding-right: 8.5px;
+}
+
+
+.margin-1 { margin: 1rem; }
+.text-line-through { text-decoration: line-through; }
+.cursor-pointer { cursor: pointer; }
+.h-200 { height: 200%; }
